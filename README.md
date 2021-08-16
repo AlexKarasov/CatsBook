@@ -1,2 +1,2 @@
 # CatsBook
-The problem-solving exercises
+The problem-solving exercises.
